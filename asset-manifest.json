@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/overjoyedmint/travel.git/static/css/main.6c421f6f.chunk.css",
+    "main.js": "/overjoyedmint/travel.git/static/js/main.7231d412.chunk.js",
+    "main.js.map": "/overjoyedmint/travel.git/static/js/main.7231d412.chunk.js.map",
+    "runtime-main.js": "/overjoyedmint/travel.git/static/js/runtime-main.4cfe1797.js",
+    "runtime-main.js.map": "/overjoyedmint/travel.git/static/js/runtime-main.4cfe1797.js.map",
+    "static/js/2.41a52c2a.chunk.js": "/overjoyedmint/travel.git/static/js/2.41a52c2a.chunk.js",
+    "static/js/2.41a52c2a.chunk.js.map": "/overjoyedmint/travel.git/static/js/2.41a52c2a.chunk.js.map",
+    "index.html": "/overjoyedmint/travel.git/index.html",
+    "static/css/main.6c421f6f.chunk.css.map": "/overjoyedmint/travel.git/static/css/main.6c421f6f.chunk.css.map",
+    "static/js/2.41a52c2a.chunk.js.LICENSE.txt": "/overjoyedmint/travel.git/static/js/2.41a52c2a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cfe1797.js",
+    "static/js/2.41a52c2a.chunk.js",
+    "static/css/main.6c421f6f.chunk.css",
+    "static/js/main.7231d412.chunk.js"
+  ]
+}
